@@ -26,3 +26,4 @@ MediaCover/
 secrets/
 certs/
 docker-compose.override.yml
+sonarr.db
